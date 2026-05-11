@@ -10,5 +10,6 @@ public class OrderCalculatorService {
         }
         
         return order.getTotalAmount();
+        return 0;
     }
 }
